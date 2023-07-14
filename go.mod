@@ -7,6 +7,7 @@ require (
 	github.com/Masterminds/sprig/v3 v3.2.3
 	github.com/alecthomas/chroma/v2 v2.5.0
 	github.com/aryann/difflib v0.0.0-20210328193216-ff5ff6dc229b
+	github.com/caddy-dns/google-domains v0.0.0-20230209201753-f8efef531ada
 	github.com/caddyserver/certmagic v0.17.2
 	github.com/dustin/go-humanize v1.0.1
 	github.com/go-chi/chi v4.1.2+incompatible
@@ -41,7 +42,6 @@ require (
 
 require (
 	github.com/Microsoft/go-winio v0.6.0 // indirect
-	github.com/caddy-dns/google-domains v0.0.0-20230209201753-f8efef531ada // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/fxamacker/cbor/v2 v2.4.0 // indirect
 	github.com/golang/glog v1.0.0 // indirect
